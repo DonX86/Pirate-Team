@@ -5,8 +5,8 @@ Pirate Team is cooperative multiplayer game based on Space Team. The users are p
 # Getting Started
 
 # Prerequisites
-Unity 2017
-Windows 10 Router
+Unity 2017,
+Windows 10 Router, and
 Twisted Python
 
 # Acknowledgments
